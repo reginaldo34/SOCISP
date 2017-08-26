@@ -1,0 +1,23 @@
+.fotos{
+   width: 100%;
+   height: 500px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   float: left;
+   justify-content: center;
+   
+}
+.fotos img{
+   width: 200px;
+   height: 150px;
+   margin: 10px 20px;
+   margin-top: 30px;
+}
+.fotos a{
+   margin: 5px 5px;
+}
+.fotos{
+   background-color: gray;
+}
+
